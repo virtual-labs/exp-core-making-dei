@@ -4,13 +4,11 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
-<b> Experiment|     <b> To determine the content of clay present in base sand.
+<b> Experiment|     <b> To study the making of cores using core sand.
 
 ### About the Experiment 
 
-Clay is extremely fine-grained natural soil material (with < 2 microns size) containing clay minerals (aluminum silicate), 
-which acts as binder material in molding sand. Moulding sand contains 2 – 50% clay. 
-When clay is mixed with water it imparts strength, plasticity and good binding strength
+Cores are sand blocks they are used to make hollow portion in a casting. It is placed in a mould so that when molten metal is poured into the mould. This apart of mould will remain vacant i.e. the molten metal will not fill this part of the mould. So, when the mould is broken and the castings removed a hollow portion will result in the casting.
  
 <b>Name of Developer | <b> Prof. Rahul Swarup Sharma
 :--|:--|
