@@ -4,7 +4,7 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
-<b> Experiment|     <b> To study the making of cores using core sand.
+<b> Experiment| <b> To study the making of cores using core sand.
 
 ### About the Experiment
 
@@ -15,7 +15,7 @@ So, when the mould is broken and the castings removed a hollow portion will resu
 <b>Name of Developer | <b> Prof. Rahul Swarup Sharma
 :--|:--|
 <b> Institute | Dayalbagh Educatonal Institute <b>  
-<b> Email id |  rahulswarup@dei.ac.in   <b>  
+<b> Email ID |  rahulswarup@dei.ac.in   <b>  
 <b> Department |  Mechanical Engineering
 
 ### Contributors List
