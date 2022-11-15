@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Temperature up to which cores are backed by preheating them is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "550°F",
+        "b": "600°F",
+        "c": "650°F",
+        "d": "700°F"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The force which is experienced by the cores while pouring molten metal is:",
+      "answers": {
+        "a": "Buoyant force",
+        "b": "Shear force",
+        "c": "Magnetic force",
+        "d": "Tensile force"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "For the casting of aluminium, chaplets used are made up of:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Aluminium",
+        "b": "Copper",
+        "c": "Steel",
+        "d": "Zinc"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +49,41 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To remove the cores from the finished casting, which of the following process can be used?",
+      "answers": {
+        "a": "Chemical dipping",
+        "b": "Blowing",
+        "c": "Washing",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In sodium silicate-CO2 cores, the purpose to pass CO2 gas to the rammed sand is:",
+      "answers": {
+        "a": "To form silica gel which binds sand grains into a strong solid form",
+        "b": "To increase the permeability of the core sand",
+        "c": "To increase collapsibility of the core",
+        "d": "To increase strength of the core sand"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

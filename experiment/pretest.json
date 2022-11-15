@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Thermo-setting resin is used in core making process because:",
+      "answers": {
+        "a": "It imparts high strength",
+        "b": "It imparts collapsibility to core sand",
+        "c": "It emits a minimum amount of mould and core gases",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following properties can be achieved using core binders:",
       "answers": {
         "a": "answer1",
         "b": "answer2",
         "c": "answer3",
         "d": "answer4"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To locate and support the core within the mould, a region is added pattern, core, or mould called as:",
+      "answers": {
+        "a": "Core Prints",
+        "b": "Chills",
+        "c": "Riser",
+        "d": "Sprue"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Wire of which material is used for the reinforcement of the weak cores?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Bronze",
+        "b": "Copper",
+        "c": "Steel",
+        "d": "Iron"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is the oldest binder used in making cores?",
+      "answers": {
+        "a": "Coal tar",
+        "b": "Dextrin",
+        "c": "Molasses",
+        "d": "Vegetable oil"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

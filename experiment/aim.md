@@ -1,1 +1,1 @@
-### Aim of the experiment
+### To study the making of cores using core sand
