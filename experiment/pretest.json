@@ -10,10 +10,10 @@
         "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "It imparts high strength to the core.",
+        "b": "It imparts collapsibility to the core sand, allowing the core to break down easily during metal casting.",
+        "c": "It emits a minimum amount of mold and core gases, which is beneficial for reducing defects in the casting.",
+        "d": "Thermo-setting resin is used in the core making process because All the above"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -21,10 +21,10 @@
     {
       "question": "Which of the following properties can be achieved using core binders:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Adhesion",
+        "b": "Cohesion",
+        "c": "Collapsibility",
+        "d": "Refractoriness"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -44,10 +44,10 @@
         "d": "Sprue"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process. They provide a means to position the core accurately and ensure it remains in place until the molten metal solidifies.",
+        "b": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process.",
+        "c": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process.",
+        "d": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Iron"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes.",
+        "b": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes.",
+        "c": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes. It provides strength and stability to the core, helping it withstand the stresses during handling and casting.",
+        "d": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
