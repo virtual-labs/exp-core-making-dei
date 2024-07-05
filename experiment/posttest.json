@@ -10,10 +10,10 @@
         "d": "700°F"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process.",
+        "b": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process.",
+        "c": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process.",
+        "d": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Tensile force"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal.",
+        "b": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal.",
+        "c": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal.",
+        "d": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Zinc"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cchaplets used for the casting of aluminum are made of aluminum. Chaplets are sacrificial metal pieces placed between the mold and core in sand casting to provide support and maintain the desired spacing. Using aluminum chaplets ensures compatibility with the molten aluminum during casting, as they will melt and integrate with the casting material without causing contamination or adverse reactions.",
+        "b": "Chaplets used for the casting of aluminum are made of aluminum.",
+        "c": "Chaplets used for the casting of aluminum are made of aluminum.",
+        "d": "Chaplets used for the casting of aluminum are made of aluminum."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Involves immersing the casting in a chemical solution that dissolves the core material.",
+        "b": "Involves using compressed air or steam to blow out the core sand from the casting.",
+        "c": "Involves washing the casting with water or another solvent to remove the core sand.",
+        "d": "All of the above"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "To increase strength of the core sand"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form.",
+        "b": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form.",
+        "c": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form.",
+        "d": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
