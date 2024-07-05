@@ -78,10 +78,10 @@
         "d": "Vegetable oil"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
+        "b": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
+        "c": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
+        "d": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
