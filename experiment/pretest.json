@@ -27,10 +27,10 @@
         "d": "Refractoriness"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
+        "b": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
+        "c": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
+        "d": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
