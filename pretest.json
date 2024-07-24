@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Thermo-setting resin is used in core making process because:",
+      "answers": {
+        "a": "It imparts high strength",
+        "b": "It imparts collapsibility to core sand",
+        "c": "It emits a minimum amount of mould and core gases",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "It imparts high strength to the core.",
+        "b": "It imparts collapsibility to the core sand, allowing the core to break down easily during metal casting.",
+        "c": "It emits a minimum amount of mold and core gases, which is beneficial for reducing defects in the casting.",
+        "d": "Thermo-setting resin is used in the core making process because All the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following properties can be achieved using core binders:",
+      "answers": {
+        "a": "Adhesion",
+        "b": "Cohesion",
+        "c": "Collapsibility",
+        "d": "Refractoriness"
+      },
+      "explanations": {
+        "a": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
+        "b": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
+        "c": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
+        "d": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To locate and support the core within the mould, a region is added pattern, core, or mould called as:",
+      "answers": {
+        "a": "Core Prints",
+        "b": "Chills",
+        "c": "Riser",
+        "d": "Sprue"
+      },
+      "explanations": {
+        "a": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process. They provide a means to position the core accurately and ensure it remains in place until the molten metal solidifies.",
+        "b": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process.",
+        "c": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process.",
+        "d": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Wire of which material is used for the reinforcement of the weak cores?",
+      "answers": {
+        "a": "Bronze",
+        "b": "Copper",
+        "c": "Steel",
+        "d": "Iron"
+      },
+      "explanations": {
+        "a": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes.",
+        "b": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes.",
+        "c": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes. It provides strength and stability to the core, helping it withstand the stresses during handling and casting.",
+        "d": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is the oldest binder used in making cores?",
+      "answers": {
+        "a": "Coal tar",
+        "b": "Dextrin",
+        "c": "Molasses",
+        "d": "Vegetable oil"
+      },
+      "explanations": {
+        "a": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
+        "b": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
+        "c": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
+        "d": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
