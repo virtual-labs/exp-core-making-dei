@@ -2,86 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Temperature up to which cores are backed by preheating them is:",
+      "question": "Why is a hole made in the core during core preparation? (LO3)",
       "answers": {
-        "a": "550°F",
-        "b": "600°F",
-        "c": "650°F",
-        "d": "700°F"
+        "a": "To allow gases to escape during casting",
+        "b": "To reduce the weight of the core",
+        "c": "To improve surface finish",
+        "d": "To increase the density of the core"
       },
       "explanations": {
-        "a": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process.",
-        "b": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process.",
-        "c": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process.",
-        "d": "cores are backed by preheating them to temperatures up to 650°F. This higher temperature allows for proper curing of the binders used in the cores, ensuring they maintain their structural integrity during the casting process."
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "The force which is experienced by the cores while pouring molten metal is:",
-      "answers": {
-        "a": "Buoyant force",
-        "b": "Shear force",
-        "c": "Magnetic force",
-        "d": "Tensile force"
-      },
-      "explanations": {
-        "a": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal.",
-        "b": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal.",
-        "c": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal.",
-        "d": "The force experienced by cores while pouring molten metal can indeed be described as buoyant force. This force arises because the core, being less dense than the molten metal, experiences an upward force due to buoyancy. This force helps to support the core within the mould and counteracts the weight of the molten metal."
+        "a": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "b": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "c": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "d": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "For the casting of aluminium, chaplets used are made up of:",
+      "question": "Why are binders used in core making? (LO3)",
       "answers": {
-        "a": "Aluminium",
-        "b": "Copper",
-        "c": "Steel",
-        "d": "Zinc"
+        "a": "To increase the permeability of the core",
+        "b": "To bond sand particles together and provide strength",
+        "c": "To make the core heavier for stability",
+        "d": "To improve the surface finish of the casting"
       },
       "explanations": {
-        "a": "Cchaplets used for the casting of aluminum are made of aluminum. Chaplets are sacrificial metal pieces placed between the mold and core in sand casting to provide support and maintain the desired spacing. Using aluminum chaplets ensures compatibility with the molten aluminum during casting, as they will melt and integrate with the casting material without causing contamination or adverse reactions.",
-        "b": "Chaplets used for the casting of aluminum are made of aluminum.",
-        "c": "Chaplets used for the casting of aluminum are made of aluminum.",
-        "d": "Chaplets used for the casting of aluminum are made of aluminum."
+        "a": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements.",
+        "b": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements.",
+        "c": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements.",
+        "d": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
-    {
-      "question": "To remove the cores from the finished casting, which of the following process can be used?",
+  {
+      "question": "What is the function of carbon dioxide (CO₂) in core making? (LO2)",
       "answers": {
-        "a": "Chemical dipping",
-        "b": "Blowing",
-        "c": "Washing",
-        "d": "All of the above"
+        "a": "To increase the temperature of the core",
+        "b": "To harden the core by reacting with binders",
+        "c": "To remove excess moisture from the core",
+        "d": "To break the core after casting"
       },
       "explanations": {
-        "a": "Involves immersing the casting in a chemical solution that dissolves the core material.",
-        "b": "Involves using compressed air or steam to blow out the core sand from the casting.",
-        "c": "Involves washing the casting with water or another solvent to remove the core sand.",
-        "d": "All of the above"
+        "a": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient.",
+        "b": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient.",
+        "c": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient.",
+        "d": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
-    {
-      "question": "In sodium silicate-CO<sub>2</sub> cores, the purpose to pass CO<sub>2</sub> gas to the rammed sand is:",
+  {
+      "question": "Why must the core be collapsible after casting? (LO1)",
       "answers": {
-        "a": "To form silica gel which binds sand grains into a strong solid form",
-        "b": "To increase the permeability of the core sand",
-        "c": "To increase collapsibility of the core",
-        "d": "To increase strength of the core sand"
+        "a": "To improve the strength of the final casting",
+        "b": "To prevent defects like cracks and stress buildup",
+        "c": "To make the casting heavier",
+        "d": "To ensure the core remains permanently inside the casting"
       },
       "explanations": {
-        "a": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form.",
-        "b": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form.",
-        "c": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form.",
-        "d": "In sodium silicate-CO<sub>2</sub> (carbon dioxide) core making process, CO<sub>2</sub> gas is passed through the rammed sand (mixed with sodium silicate binder) to react with the sodium silicate. This reaction forms silica gel, which acts as a binder by binding the sand grains together into a strong solid form."
+        "a": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation.",
+        "b": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation.",
+        "c": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation.",
+        "d": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "Why is core drying important before placing it in the mould? (LO3)",
+      "answers": {
+        "a": "To remove excess moisture and prevent steam formation",
+        "b": "To make the core more resistant to molten metal",
+        "c": "To reduce metal shrinkage during casting",
+        "d": "To increase the weight of the core"
+      },
+      "explanations": {
+        "a": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting",
+        "b": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting.",
+        "c": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting",
+        "d": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
