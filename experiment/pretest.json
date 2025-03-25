@@ -2,88 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Thermo-setting resin is used in core making process because:",
+      "question": "What is the primary purpose of sand casting? (LO1)",
       "answers": {
-        "a": "It imparts high strength",
-        "b": "It imparts collapsibility to core sand",
-        "c": "It emits a minimum amount of mould and core gases",
-        "d": "All the above"
+        "a": "To increase the weight of the casting",
+        "b": "To create hollow sections in the casting",
+        "c": "To improve the strength of the mould",
+        "d": "To enhance the surface finish of the casting"
       },
       "explanations": {
-        "a": "It imparts high strength to the core.",
-        "b": "It imparts collapsibility to the core sand, allowing the core to break down easily during metal casting.",
-        "c": "It emits a minimum amount of mold and core gases, which is beneficial for reducing defects in the casting.",
-        "d": "Thermo-setting resin is used in the core making process because All the above"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which of the following properties can be achieved using core binders:",
-      "answers": {
-        "a": "Adhesion",
-        "b": "Cohesion",
-        "c": "Collapsibility",
-        "d": "Refractoriness"
-      },
-      "explanations": {
-        "a": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
-        "b": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
-        "c": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes.",
-        "d": "Cohesion as it directly relates to the internal strength provided by core binders to hold the sand particles together. This is the key property provided by core binders, referring to the internal strength of the bonded sand, allowing the core to maintain its shape and withstand handling and pouring processes."
+        "a": "A core is a sand structure placed inside the mould cavity to block certain areas from being filled with molten metal. This allows for hollow sections, internal channels, or complex shapes in the final casting. Cores ensure that the desired internal geometries are formed accurately without requiring post-processing like drilling or machining.",
+        "b": "A core is a sand structure placed inside the mould cavity to block certain areas from being filled with molten metal. This allows for hollow sections, internal channels, or complex shapes in the final casting. Cores ensure that the desired internal geometries are formed accurately without requiring post-processing like drilling or machining.",
+        "c": "A core is a sand structure placed inside the mould cavity to block certain areas from being filled with molten metal. This allows for hollow sections, internal channels, or complex shapes in the final casting. Cores ensure that the desired internal geometries are formed accurately without requiring post-processing like drilling or machining.",
+        "d": "A core is a sand structure placed inside the mould cavity to block certain areas from being filled with molten metal. This allows for hollow sections, internal channels, or complex shapes in the final casting. Cores ensure that the desired internal geometries are formed accurately without requiring post-processing like drilling or machining."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "To locate and support the core within the mould, a region is added pattern, core, or mould called as:",
+      "question": "What happens to the core after the casting process is complete? (LO1)",
       "answers": {
-        "a": "Core Prints",
-        "b": "Chills",
-        "c": "Riser",
-        "d": "Sprue"
+        "a": "It becomes a permanent part of the casting",
+        "b": "It is melted along with the metal",
+        "c": "It is removed or broken away",
+        "d": "It expands to fill the cavity"
       },
       "explanations": {
-        "a": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process. They provide a means to position the core accurately and ensure it remains in place until the molten metal solidifies.",
-        "b": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process.",
-        "c": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process.",
-        "d": "Core prints are added to the pattern, core, or Mould to locate and support the core within the Mould cavity during the casting process."
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Wire of which material is used for the reinforcement of the weak cores?",
-      "answers": {
-        "a": "Bronze",
-        "b": "Copper",
-        "c": "Steel",
-        "d": "Iron"
-      },
-      "explanations": {
-        "a": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes.",
-        "b": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes.",
-        "c": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes. It provides strength and stability to the core, helping it withstand the stresses during handling and casting.",
-        "d": "Steel wire is commonly used for the reinforcement of weak cores in foundry processes."
+        "a": "Cores are temporary structures that are designed to be removed after solidification. Once the metal has cooled and the mould is broken apart, the core is shaken out or chemically dissolved to reveal the hollow section inside the casting. If the core material is not collapsible, it could get trapped, leading to defects in the final product.",
+        "b": "Cores are temporary structures that are designed to be removed after solidification. Once the metal has cooled and the mould is broken apart, the core is shaken out or chemically dissolved to reveal the hollow section inside the casting. If the core material is not collapsible, it could get trapped, leading to defects in the final product.",
+        "c": "Cores are temporary structures that are designed to be removed after solidification. Once the metal has cooled and the mould is broken apart, the core is shaken out or chemically dissolved to reveal the hollow section inside the casting. If the core material is not collapsible, it could get trapped, leading to defects in the final product.",
+        "d": "Cores are temporary structures that are designed to be removed after solidification. Once the metal has cooled and the mould is broken apart, the core is shaken out or chemically dissolved to reveal the hollow section inside the casting. If the core material is not collapsible, it could get trapped, leading to defects in the final product."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-    {
-      "question": "Which of the following is the oldest binder used in making cores?",
+  {
+      "question": " What is the purpose of ramming the core sand into the core box? (LO3)",
       "answers": {
-        "a": "Coal tar",
-        "b": "Dextrin",
-        "c": "Molasses",
-        "d": "Vegetable oil"
+        "a": "To mix the sand with the binder",
+        "b": "To ensure proper compaction and shape formation",
+        "c": "To dry the core faster",
+        "d": "To increase the cooling rate of molten metal"
       },
       "explanations": {
-        "a": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
-        "b": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
-        "c": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand.",
-        "d": "Vegetable oil has indeed been used historically as a binder in some foundry core making processes. It can serve as a binder due to its adhesive properties when mixed with sand."
+        "a": "Ramming (compaction) is essential in core making to achieve uniform density and dimensional accuracy. Proper compaction prevents air pockets and weak spots, which could cause core breakage or deformation during casting. If the core sand is not compacted properly, it can lead to defects such as shrinkage cavities, cracks, or surface roughness in the final casting.",
+        "b": "Ramming (compaction) is essential in core making to achieve uniform density and dimensional accuracy. Proper compaction prevents air pockets and weak spots, which could cause core breakage or deformation during casting. If the core sand is not compacted properly, it can lead to defects such as shrinkage cavities, cracks, or surface roughness in the final casting.",
+        "c": "Ramming (compaction) is essential in core making to achieve uniform density and dimensional accuracy. Proper compaction prevents air pockets and weak spots, which could cause core breakage or deformation during casting. If the core sand is not compacted properly, it can lead to defects such as shrinkage cavities, cracks, or surface roughness in the final casting.",
+        "d": "Ramming (compaction) is essential in core making to achieve uniform density and dimensional accuracy. Proper compaction prevents air pockets and weak spots, which could cause core breakage or deformation during casting. If the core sand is not compacted properly, it can lead to defects such as shrinkage cavities, cracks, or surface roughness in the final casting."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": ". Why is a hole made in the core during core preparation? (LO3)",
+      "answers": {
+        "a": "To allow gases to escape during casting",
+        "b": "To reduce the weight of the core",
+        "c": "To improve surface finish",
+        "d": "To increase the density of the core"
+      },
+      "explanations": {
+        "a": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "b": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "c": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "d": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is the final step in core making? (LO3)",
+      "answers": {
+        "a": "Pouring the molten metal into the mould",
+        "b": "Removing excess binder from the core",
+        "c": "Ramming the core box to loosen the core",
+        "d": "Cooling the casting"
+      },
+      "explanations": {
+        "a": "After the core is compacted and hardened, the last step is to remove it from the core box without damaging its shape. This process requires gentle ramming or vibration to loosen the core. The core is then stored or dried further before being placed into the mould cavity for casting.",
+        "b": "After the core is compacted and hardened, the last step is to remove it from the core box without damaging its shape. This process requires gentle ramming or vibration to loosen the core. The core is then stored or dried further before being placed into the mould cavity for casting.",
+        "c": "After the core is compacted and hardened, the last step is to remove it from the core box without damaging its shape. This process requires gentle ramming or vibration to loosen the core. The core is then stored or dried further before being placed into the mould cavity for casting.",
+        "d": "After the core is compacted and hardened, the last step is to remove it from the core box without damaging its shape. This process requires gentle ramming or vibration to loosen the core. The core is then stored or dried further before being placed into the mould cavity for casting."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
