@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Why is a hole made in the core during core preparation? (LO3)",
+      "answers": {
+        "a": "To allow gases to escape during casting",
+        "b": "To reduce the weight of the core",
+        "c": "To improve surface finish",
+        "d": "To increase the density of the core"
+      },
+      "explanations": {
+        "a": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "b": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "c": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process.",
+        "d": "A vent hole (or gas passage) in the core is necessary to release trapped gases generated during the casting process. If gases do not escape, they can cause porosity, blowholes, or gas inclusions, leading to weak or defective castings. Proper venting also improves metal flow and ensures a smooth solidification process."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are binders used in core making? (LO3)",
+      "answers": {
+        "a": "To increase the permeability of the core",
+        "b": "To bond sand particles together and provide strength",
+        "c": "To make the core heavier for stability",
+        "d": "To improve the surface finish of the casting"
+      },
+      "explanations": {
+        "a": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements.",
+        "b": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements.",
+        "c": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements.",
+        "d": "Binders play a crucial role in holding sand grains together and providing the necessary strength and stability for the core to withstand molten metal pressure. Different binders, including organic and inorganic types, are used based on collapsibility and strength requirements."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the function of carbon dioxide (CO₂) in core making? (LO2)",
+      "answers": {
+        "a": "To increase the temperature of the core",
+        "b": "To harden the core by reacting with binders",
+        "c": "To remove excess moisture from the core",
+        "d": "To break the core after casting"
+      },
+      "explanations": {
+        "a": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient.",
+        "b": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient.",
+        "c": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient.",
+        "d": "In CO₂ core making, carbon dioxide is passed through the core to react with sodium silicate binders, forming a solid glass-like bond between sand grains. This process hardens the core without requiring heat treatment, making it faster and more efficient."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why must the core be collapsible after casting? (LO1)",
+      "answers": {
+        "a": "To improve the strength of the final casting",
+        "b": "To prevent defects like cracks and stress buildup",
+        "c": "To make the casting heavier",
+        "d": "To ensure the core remains permanently inside the casting"
+      },
+      "explanations": {
+        "a": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation.",
+        "b": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation.",
+        "c": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation.",
+        "d": "A collapsible core breaks down easily after casting, allowing easy removal without damaging the casting. If the core is too rigid, it can cause internal stresses in the casting, leading to cracks or deformation."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "Why is core drying important before placing it in the mould? (LO3)",
+      "answers": {
+        "a": "To remove excess moisture and prevent steam formation",
+        "b": "To make the core more resistant to molten metal",
+        "c": "To reduce metal shrinkage during casting",
+        "d": "To increase the weight of the core"
+      },
+      "explanations": {
+        "a": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting",
+        "b": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting.",
+        "c": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting",
+        "d": "Drying the core before use removes excess moisture, preventing steam generation during casting. If moisture is trapped, it can turn into gas, leading to porosity, blowholes, or gas inclusions in the final casting"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
