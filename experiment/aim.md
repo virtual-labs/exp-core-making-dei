@@ -1,6 +1,6 @@
-### To study the making of cores using core sand
+## To study the making of cores using core sand
 
-### LEARNING OBJECTIVES
+### Learning Objective
 
 LO1:  To define cores and explain their role in creating hollow sections in castings.
 
