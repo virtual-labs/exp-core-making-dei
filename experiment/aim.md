@@ -1,4 +1,5 @@
-## To study the making of cores using core sand
+### AIM
+To study the making of cores using core sand
 
 ### Learning Objective
 
