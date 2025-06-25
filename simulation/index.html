@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>		
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				<div id="simulation">
+				<img src="images/mouldingSand.jpg" width="60%" title="Moulding Sand"><br><br>Moulding Sand
+				</div>
+				
+				<div class="ladle" id="ladle">
+				<b style="color:red;">Click on <u>Ladle</u> for adding binder</b><br><br>
+				<img src="images/ladle.jpg" width="120px" title="Click here" onclick="ladle()"><br>Ladle with Binder
+				</div>
+				
+				<div class="sidecontainer" id="coreBox">
+				<b style="color:red;">Click on <u>Core Box</u> to pour the sand in the box</b><br><br>
+				<img src="images/box.jpg" title="Click here" onclick="coreBox()"><br>Core Box
+				</div>
+				
+				<div class="sidecontainer" id="rammer">
+				<b style="color:red;">Click on <u>Rammer</u> to ram the sand</b><br><br>
+				<img src="images/rammer.jpg" title="Click here" onclick="rammer()"><br>Rammer
+				</div>
+				
+				<div class="sidecontainer" id="pin">
+				<b style="color:red;">Click on <u>Pin</u> to create hole for CO<sub>2</sub></b><br><br>
+				<img src="images/pin.jpg" title="Click here" onclick="pin()"><br>Pin
+				</div>
+				
+				<div class="sidecontainer" id="cylinder">
+				<b style="color:red;">Click on <u>Cylinder</u> to pump CO<sub>2</sub> into the hole</b><br><br>
+				<img src="images/cylinder.jpg" title="Click here" onclick="cylinder()"><br>Cylinder
+				</div>
+				
+				<div class="sidecontainer" id="core">
+				<b style="color:red;">Click on <u>OK</u> to prepare core</b><br><br>
+				<img src="images/ok.png" title="Click here" width="20%" onclick="core()">
+				</div>
+			</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/sand.jpg" title="Moulding Sand">
+			<h3 class="h-secondary center">Sand</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/ladle.jpg" title="Ladle with Binder">
+			<h3 class="h-secondary center">Ladle</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/box.jpg" title="Core Box">
+			<h3 class="h-secondary center">Box</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/rammer.jpg" title="Rammer">
+			<h3 class="h-secondary center">Rammer</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/cylinder.jpg" title="CO2 Cylinder">
+			<h3 class="h-secondary center">Cylinder</h3>
+		</div>
+		
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>
